@@ -17,4 +17,18 @@ Here are links to a couple of tools I use. Search around, there are others.
 
 ------
 
-rev 02222019-1000
+### Additional info:
+
+[RFC123 -  Security Implications of IPv6 on IPv4 Networks](https://tools.ietf.org/html/rfc7123)  
+
+[RFC7721- Security and Privacy Considerations for IPv6 Address Generation Mechanisms](https://tools.ietf.org/html/rfc7721)
+
+[Hex words](https://nedbatchelder.com/text/hexwords.html)
+
+------
+
+##### Disclaimer - no warranties or guarantees given or provided.
+
+------
+
+rev 02222019-1304 v1.1

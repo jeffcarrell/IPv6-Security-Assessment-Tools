@@ -19,7 +19,7 @@ Here are links to a couple of tools I use. Search around, there are others.
 
 ### Additional info:
 
-[RFC123 -  Security Implications of IPv6 on IPv4 Networks](https://tools.ietf.org/html/rfc7123)  
+[RFC7123 -  Security Implications of IPv6 on IPv4 Networks](https://tools.ietf.org/html/rfc7123)  
 
 [RFC7721- Security and Privacy Considerations for IPv6 Address Generation Mechanisms](https://tools.ietf.org/html/rfc7721)
 

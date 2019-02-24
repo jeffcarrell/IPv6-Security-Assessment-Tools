@@ -2,6 +2,10 @@
 
 ### Presentation file
 
+02.24.2019 v1.1
+
+Updated presentation with sample attack commands and attack results slides.
+
 ------
 ### IPv6 "Security Assessment Tools" 
 

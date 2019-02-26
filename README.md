@@ -29,10 +29,12 @@ Here are links to a couple of tools I use. Search around, there are others.
 
 [Hex words](https://nedbatchelder.com/text/hexwords.html)
 
+[IPv6 Security Frequently Asked Questions - published by The Internet Society](https://www.internetsociety.org/wp-content/uploads/2019/02/deploy360-ipv6-security-faq-v1.0-3.pdf)
+
 ------
 
 ##### Disclaimer - no warranties or guarantees given or provided.
 
 ------
 
-rev 02242019-0130 v1.2
+rev 02262019-0130 v1.3
